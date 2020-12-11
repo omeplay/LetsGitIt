@@ -1,5 +1,7 @@
 HTML Basics
 
+I want to keep this line
+
 The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
 content
