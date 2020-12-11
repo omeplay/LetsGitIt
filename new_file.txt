@@ -1,1 +1,3 @@
 new
+
+You need to resolve a conflict here. Delete this line.
