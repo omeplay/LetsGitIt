@@ -1,3 +1,7 @@
+
 new
 
 You need to resolve a conflict here. Delete this line.
+
+This is a message created in feature_a, prob the first commit
+
