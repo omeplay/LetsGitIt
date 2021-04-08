@@ -1,5 +1,7 @@
 HTML Basics
 
+I want to keep this line
+
 The "frontend" of a webpage consists of:
 HTML = HyperText Markup Language
 content
@@ -24,6 +26,8 @@ unordered list: &lt;ul&gt;&lt;/ul&gt;
 list item: &lt;li&gt;&lt;/li&gt;
 form: &lt;form&gt;&lt;/form&gt;
 div (container): &lt;div&gt;&lt;/div&gt;
+
+There are more lines here because I need more commits
 
 Inline elements
 line break: &lt;br&gt;
